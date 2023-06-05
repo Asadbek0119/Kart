@@ -354,7 +354,7 @@ SECTION ONE - Ð¿ÐµÑ€Ð²Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½ Ð”Ð›Ð¯ Ð
     .main-image-ipad {
         max-height: 400px;
         min-height: 400px;
-        background-image: url(/netcat_files/7657/9434/titul_n_moy_variant.jpg);
+        background-image: url(../images/titul_n_moy_variant.webp);
         background-size: cover;
         background-repeat: no-repeat;
     }
