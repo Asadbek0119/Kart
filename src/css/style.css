@@ -433,6 +433,10 @@ SECTION ONE - Ð¿ÐµÑ€Ð²Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½ Ð”Ð›Ð¯ Ð
       padding: 4px 8px !important;
     }
   }
+  .right {
+    font-size: 12px !important;
+    color: #ff0000;
+  }
 .news {
     padding: 60px 0;
   }
@@ -475,7 +479,7 @@ SECTION ONE - Ð¿ÐµÑ€Ð²Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½ Ð”Ð›Ð¯ Ð
   }
   
   .news .member .social a:hover {
-    background: #3b8af2;
+    background: #3b8af2;    
   }
   
   .news .member .social i {
